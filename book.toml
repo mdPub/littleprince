@@ -1,0 +1,13 @@
+[book]
+title = "The Little Prince"
+authors = ["Antoine de Saint-Exupéry","Katherine Woods"]
+language = "en"
+multilingual = false
+src = "src"
+
+[output.html]
+no-section-label = true
+smart-punctuation = true
+default-theme = "rust"
+preferred-dark-theme = "ayu"
+git-repository-url = "https://github.com/mdPub/littleprince"
